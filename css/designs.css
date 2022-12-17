@@ -1,0 +1,20 @@
+#Designs{
+    border-bottom: 2px solid black;
+}
+#checklist{
+    border: 1px solid black;
+    height: 50px;
+    width: 200px;
+}
+li{
+    list-style:none;
+}
+ul li {
+    display: inline;
+   }
+header{
+    width: 60%;
+    display: flex;
+    justify-content: flex-end;
+    border: 1px solid black;
+}
